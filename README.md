@@ -1,0 +1,1 @@
+This is a project done by Kevin that solves the minesweeper game. Utilizes image recognition, data processing and analysis, mouse manipulation to achieve the auto-solving process for Minesweeper. Currently only works on Minesweeper app on Mac system. 
